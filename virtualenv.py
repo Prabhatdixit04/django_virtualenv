@@ -4,6 +4,8 @@ pip install virtualenvwrapper
 mkvirtualenv virtualenv_name
 # installing django
 pip instal django
+# create a directory to store all project in 1 place
+mkdir directory_name
 #start django project
 django-admin startproject project_name
 # to enter in project
